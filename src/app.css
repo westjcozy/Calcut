@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ActionBar {
+  background-color: #4F46E5;
+  color: white;
+}
+
+.btn {
+  font-size: 18;
+  padding: 10;
+  text-align: center;
+  background-color: #4F46E5;
+  color: white;
+  border-radius: 8;
+}
+
+.container {
+  padding: 16;
+}
